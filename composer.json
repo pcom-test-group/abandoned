@@ -1,3 +1,4 @@
 {
-  "name": "pcom/abandoned"
+  "name": "pcom/abandoned",
+  "abandoned": true
 }
